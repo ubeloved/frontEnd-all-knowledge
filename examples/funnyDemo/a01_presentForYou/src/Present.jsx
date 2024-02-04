@@ -61,7 +61,7 @@ const Present = props => {
       // console.log('是否全屏', isFull(document.getElementById('sky')));
       let textone = document.querySelector('.textone').querySelector('h1');
       let text = document.querySelector('.text').querySelector('h1');
-      textone.innerHTML = '今晚，整片星空将为你一人闪烁';
+      textone.innerHTML = '祝宝宝生日快乐';
       textone.style.color = '#E8F9FD';
       textone.style.fontFamily = '华文楷体'
       text.innerHTML = '';
